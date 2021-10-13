@@ -55,6 +55,13 @@ h2 {
   margin-bottom: 5em;
 }
 
+.name {
+  font-family: monospace;
+  font-size: 4ex;
+  text-align: center; 
+  padding: 2em;
+}
+
 .artist {
   font-size: 3ex;
   text-align: center;
